@@ -10,12 +10,12 @@
 
 ## Installation
 
-	git clone https://github.com/kadowa/omp-xepicur-oai-plugin omp/plugins/oaiMetadataFormats/epc
+	git clone https://github.com/ub-heidelberg/epc omp/plugins/oaiMetadataFormats
 	php omp/tools/upgrade.php upgrade
 
 ## Bugs / Issues
 
-You can report issues here: <https://github.com/kadowa/omp-xepicur-oai-plugin/issues>
+You can report issues here: <https://github.com/ub-heidelberg/epc/issues>
 
 ## License
 
@@ -25,8 +25,8 @@ See the [COPYING][gpl-licence] included with OMP for the terms of this license.
 
 [omp]: https://github.com/pkp/omp
 [xepicur]: http://www.persistent-identifier.de/?link=210
-[epc10]: https://github.com/kadowa/omp-xepicur-metadata-plugin
-[epc10-readme]: https://github.com/kadowa/omp-xepicur-metadata-plugin/blob/master/README.md
-[urn_dnb]: https://github.com/kadowa/omp-dnb-urn-plugin
+[epc10]: https://github.com/ub-heidelberg/epc10
+[epc10-readme]: https://github.com/ub-heidelberg/epc10/blob/master/README.md
+[urn_dnb]: https://github.com/ub-heidelberg/urn_dnb
 [dnb]: http://www.dnb.de
 [gpl-licence]: https://github.com/pkp/omp/blob/master/docs/COPYING
