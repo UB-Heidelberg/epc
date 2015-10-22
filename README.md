@@ -10,7 +10,7 @@
 
 ## Installation
 
-	git clone https://github.com/ub-heidelberg/epc omp/plugins/oaiMetadataFormats
+	git clone https://github.com/ub-heidelberg/epc /path/to/your/omp/plugins/oaiMetadataFormats
 	php omp/tools/upgrade.php upgrade
 
 ## Bugs / Issues
